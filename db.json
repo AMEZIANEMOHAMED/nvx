@@ -1,0 +1,11 @@
+{
+	"all":[{
+	"Email": "testEmail@gmail.com",
+	"Active": true,
+	"Roles":[
+		"User",
+		"Admin"
+		],
+	"Numberphone": "666999444"
+}]
+}
