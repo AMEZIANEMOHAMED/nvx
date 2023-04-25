@@ -1,4 +1,11 @@
-[{
-	"url": "https://creator.nightcafe.studio/",
-	"show_url": "true"
-}]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
